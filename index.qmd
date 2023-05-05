@@ -1,8 +1,24 @@
 ---
-title: "Template Revealjs Quarto site"
-format: revealjs
+title: "'Sensitive' and Qualitative Data Management: A Session for [XXX]"
+author: "Research Data Manager - Scholarly Communications Team"
+email: "rdm@sheffield.ac.uk"
+format:
+  revealjs:
+    incremental: true
+    theme: sky # solarized | dark | night | league | sky
+    slide-number: true
+    show-slide-number: print
+  footer:"[**riccampbell.github.io/rdm_sensitive_data_slides/**](https://riccampbell.github.io/rdm_sensitive_data_slides/#/title-slide)"
+    
+  
 ---
 
-This is a Quarto website.
+## Session content
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
++ What will we cover:
++ What do we mean by sensitive data and qualitative data
++ Refresh of your knowledge of Research Data Management
++ Extra procedures that need to be taken for sensitive and qualitative data
++ What to do at the end of your study
++ Examples
++ where you can find help
