@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sensitive and Qualitative Data",
+    "section": "",
+    "text": "title: “Sensitive’ and Qualitative Data Management: A Session for [XXX]” author: “Research Data Manager - Scholarly Communications Team” email: “rdm@sheffield.ac.uk” from: markdown+emoji format: revealjs: incremental: true theme: sky # solarized | dark | night | league | sky slide-number: true show-slide-number: all footer: “riccampbell.github.io/rdm_sensitive_data_slides/”"
+  },
+  {
+    "objectID": "index.html#session-content",
+    "href": "index.html#session-content",
+    "title": "Sensitive and Qualitative Data",
+    "section": "Session content",
+    "text": "Session content\n\nWhat will we cover:\nWhat do we mean by sensitive data and qualitative data\nRefresh of your knowledge of Research Data Management\nExtra procedures that need to be taken for sensitive and qualitative data\nWhat to do at the end of your study\nExamples\nwhere you can find help"
+  }
+]
