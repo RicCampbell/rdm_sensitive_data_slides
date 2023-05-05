@@ -1,15 +1,16 @@
 ---
-title: "'Sensitive' and Qualitative Data Management: A Session for [XXX]"
+
+title: "Sensitive' and Qualitative Data Management: A Session for [XXX]"
 author: "Research Data Manager - Scholarly Communications Team"
 email: "rdm@sheffield.ac.uk"
+from: markdown+emoji
 format:
   revealjs:
     incremental: true
     theme: sky # solarized | dark | night | league | sky
     slide-number: true
-    show-slide-number: print
-  footer:"[**riccampbell.github.io/rdm_sensitive_data_slides/**](https://riccampbell.github.io/rdm_sensitive_data_slides/#/title-slide)"
-    
+    show-slide-number: all
+footer: "[**riccampbell.github.io/rdm_sensitive_data_slides/**](https://riccampbell.github.io/rdm_sensitive_data_slides/#/title-slide)"
   
 ---
 
